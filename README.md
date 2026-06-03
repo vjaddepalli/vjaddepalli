@@ -71,5 +71,3 @@ Here is a live look at my repository metrics and development activity:
 I'm always open to talking about backend architecture, Java performance optimization, open-source projects, or content strategy!
 
 * 💼 **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/vjaddepalli)
-* 📧 **Direct Email:** [vijay4855@gmail.com](mailto:vijay4855@gmail.com)
-* 🎥 **YouTube Channel:** [Growth Creator](https://www.youtube.com/@GrowthCreator)
