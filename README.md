@@ -36,12 +36,13 @@ I am an experienced **Software Engineer** with over **4.3 years of professional 
 | **Databases** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Web Server** | ![Apache Tomcat](https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black) |
 
-### 🔧 Tools, DevOps & Platforms
+### 🔧 Tools, DevOps & AI Assistants
 
 | Category | Technologies |
 | :--- | :--- |
+| **AI Assistants** | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-23292E?style=for-the-badge&logo=githubcopilot&logoColor=white) |
+| **Dev Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) |
-| **Dev Tools** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
 | **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
 ---
@@ -51,17 +52,17 @@ I am an experienced **Software Engineer** with over **4.3 years of professional 
 Here is a live look at my repository metrics and development activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Vijay's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight&cache_id=1" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true&cache_id=2" alt="Vijay's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight&cache_id=2" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjaddepalli&theme=tokyonight&cache_id=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjaddepalli&theme=tokyonight&cache_id=2" alt="GitHub Streak" />
 </p>
 
 🏆 **GitHub Achievements & Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjaddepalli&theme=tokyonight&margin-w=15&cache_id=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vjaddepalli&theme=tokyonight&margin-w=15&cache_id=2" alt="GitHub Trophies" />
 </p>
 
 ---
