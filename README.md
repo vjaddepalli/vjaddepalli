@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-I am an experienced **Software Engineer** with over **4.3 years of professional expertise** in building robust, scalable, and high-performance backend systems. Passionate about clean code, architecture, and developer productivity, I specialize in the Java ecosystem and modern cloud architectures.
+I am an experienced **Software Engineer** with over **4.5 years of professional expertise** in building robust, scalable, and high-performance backend systems. Passionate about clean code, architecture, and developer productivity, I specialize in the Java ecosystem and modern cloud architectures.
 
 * 🏢 **Current Role:** Software Engineer at **Tech Mahindra**, driving migration projects (Java 8 to 17) and optimizing enterprise systems.
 * 🛠️ **Past Impact:** Spearheaded microservices and application efficiency improvements at **Zensar Technologies** for high-impact projects like *Cisco Commerce Workspace*.
 * 📈 **Agile Advocate:** Proven track record of boosting sprint efficiency and product delivery by up to 30% using Agile methodologies.
-* 🎥 **Content Creator:** Outside of day-to-day engineering, I run the **Growth Creator** YouTube channel, helping a community of over 2,000 subscribers navigate technology and creator analytics.
 
 ---
 
