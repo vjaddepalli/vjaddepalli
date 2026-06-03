@@ -48,17 +48,17 @@ I am an experienced **Software Engineer** with over **4.3 years of professional 
 Here is a live look at my repository metrics and development activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Vijay's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true" alt="Vijay's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjaddepalli&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 🏆 **GitHub Achievements & Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vjaddepalli&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
