@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/vjaddepalli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Software+Engineer;Java+%7C+Spring+Boot+Expert;Tech+Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Software+Engineer;Java+%7C+Spring+Boot+Expert" alt="Typing SVG" />
   </a>
 </p>
 
