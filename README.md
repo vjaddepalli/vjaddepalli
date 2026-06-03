@@ -49,16 +49,15 @@ I am an experienced **Software Engineer** with over **4.3 years of professional 
 
 ## 📊 GitHub Analytics
 
-Here is a live look at my development activity and repository metrics:
+Here is a live look at my repository metrics and development activity:
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true" alt="Vijay's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
-</p>
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true)
 
-<p align="center">
-  <img src="https://github-metrics.lecoq.io/vjaddepalli?template=classic&base=header%2C+activity%2C+community%2C+repositories&config.timezone=Asia%2FKolkata" alt="GitHub Metrics Summary" width="100%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight)
+
+🏆 **GitHub Achievements & Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vjaddepalli&theme=tokyonight&margin-w=15)
 
 ---
 
