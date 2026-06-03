@@ -49,20 +49,15 @@ I am an experienced **Software Engineer** with over **4.3 years of professional 
 
 ## 📊 GitHub Analytics
 
-Here is a live look at my repository metrics and development activity:
+Here is a live look at my development activity and repository metrics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true&cache_id=2" alt="Vijay's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight&cache_id=2" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=vjaddepalli&show_icons=true&theme=tokyonight&count_private=true" alt="Vijay's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=vjaddepalli&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjaddepalli&theme=tokyonight&cache_id=2" alt="GitHub Streak" />
-</p>
-
-🏆 **GitHub Achievements & Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjaddepalli&theme=tokyonight&margin-w=15&cache_id=2" alt="GitHub Trophies" />
+  <img src="https://github-metrics.lecoq.io/vjaddepalli?template=classic&base=header%2C+activity%2C+community%2C+repositories&config.timezone=Asia%2FKolkata" alt="GitHub Metrics Summary" width="100%" />
 </p>
 
 ---
